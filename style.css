@@ -1,0 +1,51 @@
+html{
+    background-image: url(background/spacebackground.gif);
+ 
+
+}
+
+body{
+    background: none;
+}
+
+h1{
+color:cornsilk;
+text-align: center;
+margin: auto;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#container1{
+    border: deeppink 8px groove;
+    height: 1050px;
+    width: 700px;
+    padding: 15px;
+    margin: auto;
+    background-color: deeppink;
+    text-align: center;
+    
+}
+
+.audio-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#footer{
+    text-align: center;
+}
+
+#gif_banner{
+    width: 600px;
+    height: 50px;
+}
+
